@@ -1,0 +1,7 @@
+# Folders
+Archive/
+build/
+external/
+
+# Files 
+*.txt

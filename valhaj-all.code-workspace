@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "valhaj-server"
+		},
+		{
+			"path": "go-valhaj"
+		},
+		{
+			"path": "valhaj-benchmark"
+		},
+		{
+			"path": "valhaj-testing"
+		},
+		{
+			"path": "valhaj-proxy"
+		}
+	],
+	"settings": {}
+}
